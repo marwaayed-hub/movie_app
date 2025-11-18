@@ -1,6 +1,4 @@
 <div align="center">
- 
-
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React Native" />
     <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" alt="Expo" />
@@ -11,9 +9,7 @@
 
   <h3 align="center">A Movie Finding App with Extensive Search</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+   
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -112,9 +108,7 @@ npx expo start
 ```
 
 Open your ExpoGO app on your phone and scan the QR code to view the project.
-
- <br />
-    <a href="https://www.youtube.com/watch?v=f8Z9JyB2EIE" target="_blank">
-      <img src="assets/readme/hero.webp" alt="Project Banner">
-    </a>
-  <br />
+<div align="center">
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
+    </div>
+ 
