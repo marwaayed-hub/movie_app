@@ -1,9 +1,5 @@
 <div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=f8Z9JyB2EIE" target="_blank">
-      <img src="assets/readme/hero.webp" alt="Project Banner">
-    </a>
-  <br />
+ 
 
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React Native" />
@@ -116,3 +112,9 @@ npx expo start
 ```
 
 Open your ExpoGO app on your phone and scan the QR code to view the project.
+
+ <br />
+    <a href="https://www.youtube.com/watch?v=f8Z9JyB2EIE" target="_blank">
+      <img src="assets/readme/hero.webp" alt="Project Banner">
+    </a>
+  <br />
